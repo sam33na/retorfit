@@ -22,6 +22,7 @@
             android:layout_height="100dp"
             android:layout_gravity="center"
             android:src="@drawable/ic_baseline_image_24"
+            android:id="@+id/imgview"
             />
         <com.google.android.material.textfield.TextInputLayout
             android:layout_width="match_parent"

@@ -18,7 +18,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.StudentAPI"
         android:usesCleartextTraffic="true">
-        <activity android:name=".ui.AddStudent"></activity>
+        <activity android:name=".ui.ViewStudent"></activity>
+        <activity android:name=".ui.AddStudent" />
         <activity android:name=".ui.DashboardActivity" />
         <activity android:name=".ui.RegisterActivity" />
         <activity android:name=".ui.LoginActivity">
